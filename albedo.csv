@@ -1,2 +1,3 @@
 site,location,land cover type,day of year,time of day,value,reference,remarks
 example,London,built-up surface,10,13:00,0.1,[Kotthaus et al (2014)](https://www.sciencedirect.com/science/article/pii/S0924271614001233#),a sample concrete slab
+Grasslands National Park, Canada, temperate grassland, 193, 12:00, 0.06, Wang and Davidson (2007) (https://www.researchgate.net/publication/223833607_Impact_of_climate_variations_on_surface_albedo_of_temperate_grassland), seasonal variations of albedo noted
